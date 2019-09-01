@@ -1,0 +1,1 @@
+<p align="center">&copy; by Christian Born</p>
